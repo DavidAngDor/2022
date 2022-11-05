@@ -11,11 +11,8 @@ export default function App() {
   }
   return (
     <View style={styles.container}>
-      <Text>{contador}</Text>
-      <Button
-        title='Incrementar'
-        onPress={incrementar}
-      />
+      
+      
     </View>
   );
 }
